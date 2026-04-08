@@ -2,10 +2,10 @@
 
 A premium, institutional-grade redesign of the AI Ready School homepage, specifically optimized for School Principals and Academic Heads. 
 
-## 🌌 Theme
+## Theme
 **Deep Space Sovereignty**: A high-end aesthetic focusing on safety, institutional control, and cutting-edge innovation using Vanilla CSS Glassmorphism and Framer Motion.
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ### Prerequisites
 - Node.js (v18+ recommended)
@@ -35,7 +35,7 @@ To create a production-optimized bundle in the `dist/` folder:
 npm run build
 ```
 
-## 🧠 Design Philosophy & Strategy Summary
+## Design Philosophy & Strategy Summary
 
 ### Problems Identified
 *   **Persona Mismatch**: The original technical-heavy messaging was too dense for busy school principals who need clear, benefit-first outcomes.
