@@ -35,14 +35,19 @@ To create a production-optimized bundle in the `dist/` folder:
 npm run build
 ```
 
-## 🛠️ Technology Stack
-- **Framework**: [React](https://react.dev/) + [Vite](https://vitejs.dev/)
-- **Animation**: [Framer Motion](https://www.framer.com/motion/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Styling**: Premium Vanilla CSS Design System (no Tailwind dependencies)
+## 🧠 Design Philosophy & Strategy Summary
 
-## 📌 Notable Improvements
-- **Security Dashboard Mockup**: Real-time visualization of data sovereignty.
-- **Institutional Roadmaps**: Clear 4-step transition plan for schools.
-- **Contrast Polish**: Optimized typography for readability by senior leadership.
-- **Smooth Navigation**: One-page architecture with synchronized section anchors.
+### Problems Identified
+*   **Persona Mismatch**: The original technical-heavy messaging was too dense for busy school principals who need clear, benefit-first outcomes.
+*   **Visual Trust Gap**: The initial layout lacked the "Institutional Gravity" needed to convince school boards to trust the platform with sensitive student data.
+*   **Layout Instability**: Broken utility-class styling led to a fragmented experience on different screen sizes.
+
+### Prioritization Strategy
+*   **Institutional Sovereignty**: Prioritized rebuilding the "Trust Section" and the main value proposition around *Data Ownership*, which is the #1 concern for school leadership.
+*   **Premium Visual Experience**: Focused on a high-end "Deep Space" design system to create an immediate "WOW" factor that signals stability and innovation.
+*   **Core Ecosystem Visualization**: Built the interactive visualization to simplify the complex product suite into a single, cohesive institutional story.
+
+### Future Roadmap
+*   **Admissions Dashboard**: Next phase would include a live data dashboard showing real-time administrative time saved across the institution.
+*   **Localized Content**: Implementing multi-language support (English/Hindi) to better serve the diverse Indian K-12 landscape.
+*   **Deep Integrations**: Creating specialized sub-pages for *Matrix* security protocols to satisfy technical IT audits in schools.
